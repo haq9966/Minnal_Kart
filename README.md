@@ -1,5 +1,4 @@
-# Minnal_Kart
-https://haq9966.github.io/Minnal_Kart/
+
 
 # Minnal_Kart
 
@@ -67,6 +66,10 @@ possible to incorporate them in to the app.
   *  Any modern smart phone would suffice
   *  Minimum Specs: 4 GB RAM, intel i3 processor, intel HD
   *  Recommended: 8 GB RAM, intel i5 processor, intel UHD or higher
+
+Hosted below:
+--https://haq9966.github.io/Minnal_Kart/
+
 
 
  
